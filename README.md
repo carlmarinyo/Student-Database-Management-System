@@ -12,15 +12,16 @@ Menu
  ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/8a6a8c70-7cc3-4f73-98de-463f2adc0108)
  
 
-Add Student Option
+Success message for add student
+
 
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/06587ae1-8bb6-4fc0-a11e-6afa28a3057a)
 
-Success message for add student
+Display Student Option
 
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/1b1fd6c6-6f40-4b13-9a85-2b7f548527aa)
 
-Display Student Option
+Add Student Option
 
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/0e3f1999-8e36-4652-9923-14911d173302)
 
