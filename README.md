@@ -7,8 +7,8 @@ Functions:
 3. Calculates the average GPA of all the students.
 4. Allows you to specifically choose a certain information by searching their surname, which is very useful when dealing with tons of users.
 
-Menu 
-![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/8a6a8c70-7cc3-4f73-98de-463f2adc0108)
+
+Menu ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/8a6a8c70-7cc3-4f73-98de-463f2adc0108)
 
 Add Student Option
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/06587ae1-8bb6-4fc0-a11e-6afa28a3057a)
