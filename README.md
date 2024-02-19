@@ -30,7 +30,7 @@ Calculate Average Option
 
 Find by Last Name Option
 
-![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/5bfc5930-4cac-4f21-9ce3-32bdb5bf874e)
+
 
 
 
