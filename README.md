@@ -1,4 +1,4 @@
-# Student-Database-Management-System
+![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/9af26a60-53df-4e00-b987-bcd12611767f)# Student-Database-Management-System
 Simple Student Database Management System using C++, that allows users to store and manipulate student information. The program should utilize user-defined functions, arrays, character and string manipulation, as well as structures, utilizing user-defined functions, arrays, character and string manipulation, as well as structures
 
 Functions:
@@ -21,15 +21,17 @@ Display Student Option
 
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/1b1fd6c6-6f40-4b13-9a85-2b7f548527aa)
 
-Add Student Option
+Calculate Average Option
 
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/0e3f1999-8e36-4652-9923-14911d173302)
 
-Calculate Average Option
-
+Find by Last Name Option
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/d79f5e82-a7ef-47c9-a27d-dc0f1f4ef17e)
 
-Find by Last Name Option
+Add Student Option
+
+![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/4b12c743-222c-4a2e-84dd-6eb140b9a5ee)
+
 
 
 
