@@ -14,7 +14,6 @@ Menu
 
 Success message for add student
 
-
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/06587ae1-8bb6-4fc0-a11e-6afa28a3057a)
 
 Display Student Option
@@ -26,6 +25,7 @@ Calculate Average Option
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/0e3f1999-8e36-4652-9923-14911d173302)
 
 Find by Last Name Option
+
 ![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/d79f5e82-a7ef-47c9-a27d-dc0f1f4ef17e)
 
 Add Student Option
