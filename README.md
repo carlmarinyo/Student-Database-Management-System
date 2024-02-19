@@ -1,4 +1,3 @@
-![image](https://github.com/carlmarinyo/Student-Database-Management-System/assets/97602174/9af26a60-53df-4e00-b987-bcd12611767f)# Student-Database-Management-System
 Simple Student Database Management System using C++, that allows users to store and manipulate student information. The program should utilize user-defined functions, arrays, character and string manipulation, as well as structures, utilizing user-defined functions, arrays, character and string manipulation, as well as structures
 
 Functions:
